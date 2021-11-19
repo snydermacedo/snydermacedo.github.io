@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Nov 2021 19:17:21 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>uname - print system information</title>
+      <link>https://snydermacedo.github.io/uname/</link>
+      <pubDate>Thu, 18 Nov 2021 23:32:25 -0400</pubDate>
+      
+      <guid>https://snydermacedo.github.io/uname/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>Lançado o Proxmox 7.1</title>
       <link>https://snydermacedo.github.io/posts/proxmox-7.1/</link>
       <pubDate>Thu, 18 Nov 2021 19:17:21 -0400</pubDate>
@@ -29,9 +39,14 @@ Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, com
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;Agora é prepara o laboratório para os testes. ☢️&lt;/p&gt;
+&lt;p&gt;💾 &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/downloads/item/proxmox-ve-7-1-iso-installer&#34;&gt;Link para Download&lt;/a&gt;&lt;/strong&gt; 💾&lt;/p&gt;
 &lt;p&gt;Pessoal para mais informação segue o &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-1-released&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt; para a matéria completa.&lt;/p&gt;
 &lt;p&gt;Abaixo o video do Canal Proxmox mostrando as novidades.&lt;/p&gt;
-&lt;iframe width=&#34;915&#34; height=&#34;515&#34; src=&#34;https://www.youtube.com/embed/NLV6QPaHVFY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/NLV6QPaHVFY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;valeu-galera&#34;&gt;Valeu galera!&lt;/h2&gt;
 </content>
     </item>

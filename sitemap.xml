@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://snydermacedo.github.io/uname/</loc>
+    <lastmod>2021-11-18T23:32:25-04:00</lastmod>
+  </url><url>
     <loc>https://snydermacedo.github.io/posts/proxmox-7.1/</loc>
     <lastmod>2021-11-18T19:17:21-04:00</lastmod>
   </url><url>
