@@ -13,11 +13,11 @@
       <pubDate>Thu, 18 Nov 2021 19:17:21 -0400</pubDate>
       
       <guid>https://snydermacedo.github.io/posts/proxmox-7.1/</guid>
-      <description>Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo varias atualizações para os principais software Open Source no area da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade e que está nova versão é baseada no Debian Bullseye 11.1 combinada com o kernel Linux 5.13 mais recente.
+      <description>Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares Open Source na área da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel Linux 5.13 mais recente.
 Abaixo a lista de algumas novidades:
  Definir a retenção de backup por trabalho de backup via GUI: Isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
-      <content>&lt;p&gt;Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo varias atualizações para os principais software &lt;strong&gt;Open Source&lt;/strong&gt; no area da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1.
-Outra novidade e que está nova versão é baseada no Debian Bullseye 11.1 combinada com o kernel &lt;strong&gt;Linux&lt;/strong&gt; 5.13 mais recente.&lt;/p&gt;
+      <content>&lt;p&gt;Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares &lt;strong&gt;Open Source&lt;/strong&gt; na área da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1.
+Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel &lt;strong&gt;Linux&lt;/strong&gt; 5.13 mais recente.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abaixo a lista de algumas novidades:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Definir a retenção de backup por trabalho de backup via GUI: Isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.&lt;/li&gt;
@@ -28,8 +28,9 @@ Outra novidade e que está nova versão é baseada no Debian Bullseye 11.1 combi
 &lt;li&gt;Os contêineres no Proxmox VE 7.1 agora oferecem suporte ao Fedora 35 e ao Ubuntu 21.10, bem como às distribuições AlmaLinux e Rocky Linux, incluindo modelos.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;É agora e prepara o laboratório para os testes. ☢️&lt;/p&gt;
-&lt;p&gt;Pessoal para mais informação segue o &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-1-released&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt; para a matéria completa ou assistam a galera do Proxmox mostrando as novidades.&lt;/p&gt;
+&lt;p&gt;Agora é prepara o laboratório para os testes. ☢️&lt;/p&gt;
+&lt;p&gt;Pessoal para mais informação segue o &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-1-released&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt; para a matéria completa.&lt;/p&gt;
+&lt;p&gt;Abaixo o video do Canal Proxmox mostrando as novidades.&lt;/p&gt;
 &lt;iframe width=&#34;915&#34; height=&#34;515&#34; src=&#34;https://www.youtube.com/embed/NLV6QPaHVFY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;valeu-galera&#34;&gt;Valeu galera!&lt;/h2&gt;
 </content>
