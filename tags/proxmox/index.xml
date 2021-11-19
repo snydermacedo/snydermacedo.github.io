@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>https://snydermacedo.github.io/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>proxmox on Terminal</title>
+    <link>https://snydermacedo.github.io/tags/proxmox/</link>
+    <description>Recent content in proxmox on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 19:17:21 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 19:17:21 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lançado o Proxmox 7.1</title>
       <link>https://snydermacedo.github.io/posts/proxmox-7.1/</link>
@@ -32,44 +32,6 @@ Outra novidade e que está nova versão é baseada no Debian Bullseye 11.1 combi
 &lt;p&gt;Pessoal para mais informação segue o &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-1-released&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt; para a matéria completa ou assistam a galera do Proxmox mostrando as novidades.&lt;/p&gt;
 &lt;iframe width=&#34;915&#34; height=&#34;515&#34; src=&#34;https://www.youtube.com/embed/NLV6QPaHVFY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Valeu galera!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Ideias Para o Blog</title>
-      <link>https://snydermacedo.github.io/posts/ideias-para-o-blog/</link>
-      <pubDate>Wed, 17 Nov 2021 13:10:16 -0400</pubDate>
-      
-      <guid>https://snydermacedo.github.io/posts/ideias-para-o-blog/</guid>
-      <description>Ideias Para o Blog Pessoal este blog tem como foco Tecnologias Open Source, mas também pretendendo trazer os seguintes conteudos:
- ⛩️ Animes 🎮 Games 🖥️ Hardware 🎬 Cinema 🎧 Musica 🎙️ PodCast   Pode aparecer algum outro tópico, eu acrescento. 😅</description>
-      <content>&lt;h1 id=&#34;ideias-para-o-blog&#34;&gt;Ideias Para o Blog&lt;/h1&gt;
-&lt;p&gt;Pessoal este blog tem como foco &lt;strong&gt;Tecnologias Open Source&lt;/strong&gt;, mas também pretendendo trazer os seguintes conteudos:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;⛩️ Animes&lt;/li&gt;
-&lt;li&gt;🎮 Games&lt;/li&gt;
-&lt;li&gt;🖥️ Hardware&lt;/li&gt;
-&lt;li&gt;🎬 Cinema&lt;/li&gt;
-&lt;li&gt;🎧 Musica&lt;/li&gt;
-&lt;li&gt;🎙️ PodCast&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Pode aparecer algum outro tópico, eu acrescento. 😅&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>New Blog</title>
-      <link>https://snydermacedo.github.io/posts/new-blog/</link>
-      <pubDate>Tue, 16 Nov 2021 20:29:18 -0400</pubDate>
-      
-      <guid>https://snydermacedo.github.io/posts/new-blog/</guid>
-      <description>Olá pessoal, este é o primeiro Post do meu novo Blog, usando o framework Hugo    Hora de recuperar o tempo perdido </description>
-      <content>&lt;h1 id=&#34;olá-pessoal-este-é-o-primeiro-post-do-meu-novo-blog-usando-o-framework-hugo&#34;&gt;Olá pessoal, este é o primeiro Post do meu novo Blog, usando o framework Hugo&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;hora-de-recuperar-o-tempo-perdido&#34;&gt;Hora de recuperar o tempo perdido&lt;/h1&gt;
 </content>
     </item>
     

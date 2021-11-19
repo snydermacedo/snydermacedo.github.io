@@ -6,17 +6,45 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 13:10:16 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 19:17:21 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lançado o Proxmox 7.1</title>
+      <link>https://snydermacedo.github.io/posts/proxmox-7.1/</link>
+      <pubDate>Thu, 18 Nov 2021 19:17:21 -0400</pubDate>
+      
+      <guid>https://snydermacedo.github.io/posts/proxmox-7.1/</guid>
+      <description>Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo varias atualizações para os principais software Open Source no area da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade e que está nova versão é baseada no Debian Bullseye 11.1 combinada com o kernel Linux 5.13 mais recente.
+Abaixo a lista de algumas novidades:
+ Definir a retenção de backup por trabalho de backup via GUI: Isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
+      <content>&lt;p&gt;Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo varias atualizações para os principais software &lt;strong&gt;Open Source&lt;/strong&gt; no area da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1.
+Outra novidade e que está nova versão é baseada no Debian Bullseye 11.1 combinada com o kernel &lt;strong&gt;Linux&lt;/strong&gt; 5.13 mais recente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abaixo a lista de algumas novidades:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Definir a retenção de backup por trabalho de backup via GUI: Isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.&lt;/li&gt;
+&lt;li&gt;Opções de agendamento avançadas para tarefas de backup: as tarefas de backup no Proxmox VE agora são executadas por um novo daemon de agendador, chamado pvescheduler, que oferece suporte a opções de agendamento mais flexíveis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Para máquinas virtuais, esta versão inclui suporte para adicionar o Trusted Platform Module (TPM) 2.0 a qualquer VM. Entre outras coisas, isso permite aos usuários instalar e executar o Windows 11.&lt;/li&gt;
+&lt;li&gt;Os contêineres no Proxmox VE 7.1 agora oferecem suporte ao Fedora 35 e ao Ubuntu 21.10, bem como às distribuições AlmaLinux e Rocky Linux, incluindo modelos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;É agora e prepara o laboratório para os testes. ☢️&lt;/p&gt;
+&lt;p&gt;Pessoal para mais informação segue o &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-1-released&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt; para a matéria completa ou assistam a galera do Proxmox mostrando as novidades.&lt;/p&gt;
+&lt;iframe width=&#34;915&#34; height=&#34;515&#34; src=&#34;https://www.youtube.com/embed/NLV6QPaHVFY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Valeu galera!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Ideias Para o Blog</title>
       <link>https://snydermacedo.github.io/posts/ideias-para-o-blog/</link>
       <pubDate>Wed, 17 Nov 2021 13:10:16 -0400</pubDate>
       
       <guid>https://snydermacedo.github.io/posts/ideias-para-o-blog/</guid>
-      <description>Ideias Para o Blog Pessoal este blog tem como foco Tecnologias Open Source, mas tambêm prentendo trazer os seguintes conteudos:
+      <description>Ideias Para o Blog Pessoal este blog tem como foco Tecnologias Open Source, mas também pretendendo trazer os seguintes conteudos:
  ⛩️ Animes 🎮 Games 🖥️ Hardware 🎬 Cinema 🎧 Musica 🎙️ PodCast   Pode aparecer algum outro tópico, eu acrescento. 😅</description>
       <content>&lt;h1 id=&#34;ideias-para-o-blog&#34;&gt;Ideias Para o Blog&lt;/h1&gt;
-&lt;p&gt;Pessoal este blog tem como foco &lt;strong&gt;Tecnologias Open Source&lt;/strong&gt;, mas tambêm prentendo trazer os seguintes conteudos:&lt;/p&gt;
+&lt;p&gt;Pessoal este blog tem como foco &lt;strong&gt;Tecnologias Open Source&lt;/strong&gt;, mas também pretendendo trazer os seguintes conteudos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;⛩️ Animes&lt;/li&gt;
 &lt;li&gt;🎮 Games&lt;/li&gt;
