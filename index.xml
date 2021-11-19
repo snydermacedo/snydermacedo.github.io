@@ -23,14 +23,14 @@
       <pubDate>Thu, 18 Nov 2021 19:17:21 -0400</pubDate>
       
       <guid>https://snydermacedo.github.io/posts/proxmox-7.1/</guid>
-      <description>Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares Open Source na área da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel Linux 5.13 mais recente.
+      <description>Olá pessoal nesta última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares Open Source na área da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel Linux 5.13 mais recente.
 Abaixo a lista de algumas novidades:
- Definir a retenção de backup por trabalho de backup via GUI: Isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
-      <content>&lt;p&gt;Olá pessoal nesta uma ultima quarta-feita (17/112021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares &lt;strong&gt;Open Source&lt;/strong&gt; na área da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1.
+ Definir a retenção de backup por trabalho de backup via GUI: isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
+      <content>&lt;p&gt;Olá pessoal nesta última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares &lt;strong&gt;Open Source&lt;/strong&gt; na área da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1.
 Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel &lt;strong&gt;Linux&lt;/strong&gt; 5.13 mais recente.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abaixo a lista de algumas novidades:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Definir a retenção de backup por trabalho de backup via GUI: Isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.&lt;/li&gt;
+&lt;li&gt;Definir a retenção de backup por trabalho de backup via GUI: isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.&lt;/li&gt;
 &lt;li&gt;Opções de agendamento avançadas para tarefas de backup: as tarefas de backup no Proxmox VE agora são executadas por um novo daemon de agendador, chamado pvescheduler, que oferece suporte a opções de agendamento mais flexíveis.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
@@ -41,7 +41,7 @@ Outra novidade é que está nova versão é baseada no Debian Bullseye 11.1, com
 &lt;p&gt;Agora é prepara o laboratório para os testes. ☢️&lt;/p&gt;
 &lt;p&gt;💾 &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/downloads/item/proxmox-ve-7-1-iso-installer&#34;&gt;Link para Download&lt;/a&gt;&lt;/strong&gt; 💾&lt;/p&gt;
 &lt;p&gt;Pessoal para mais informação segue o &lt;strong&gt;&lt;a href=&#34;https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-1-released&#34;&gt;Link&lt;/a&gt;&lt;/strong&gt; para a matéria completa.&lt;/p&gt;
-&lt;p&gt;Abaixo o video do Canal Proxmox mostrando as novidades.&lt;/p&gt;
+&lt;p&gt;Abaixo o vídeo do Canal Proxmox mostrando as novidades.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/NLV6QPaHVFY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
