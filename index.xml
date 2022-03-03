@@ -30,7 +30,7 @@ Apresento o OpenMediaVault (OMV para os íntimos)
 &lt;p&gt;O OMV trata-se de uma solução pronta para uso (out-of-the-box), simples e fácil de usar, graças a sua Interface Web. Primariamente foi projetado para atuar em ambiente doméstico ou pequenos escritórios, mas não se limita só a esses cenários, podendo atuar também em ambiente corporativo.&lt;/p&gt;
 &lt;p&gt;O sistema é construído em um design modular e pode ser facilmente estendido com Plugins disponíveis logo após a instalação do sistema básico.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.openmediavault.org/wp-content/uploads/2021/11/omv6_plugins.png&#34; alt=&#34;OMV Plugins&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Destaques:&lt;/p&gt;
+&lt;p&gt;###Destaques:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Disponível para plataformas x86-64 e ARM (sim pode ser instalando no seu Raspberry).&lt;/li&gt;
 &lt;li&gt;Possui Interface Web bastante rica, para sua administração&lt;/li&gt;
@@ -43,7 +43,6 @@ Apresento o OpenMediaVault (OMV para os íntimos)
 &lt;blockquote&gt;
 &lt;p&gt;A história do Openmediavault começou com Volker Theile, que foi o único desenvolvedor ativo do projeto FreeNAS no final de 2009. Volker ficou interessado em reescrever completamente o FreeNAS, para uso no Linux. Inicialmente, ele nomeou o pacote reescrito coreNAS . Pouco tempo depois, Volker descartou o nome coreNAS em favor de openmediavault . O lançamento inicial do Openmediavault foi em 17 de outubro de 2011. Ele é construído sobre camadas de software muito maduras e comprovadas e está em constante desenvolvimento. O Openmediavault depende do projeto Debian e usa seu sistema e repositórios como base. O foco do projeto é criar e manter um sistema NAS estável e extensível que seja intuitivo e fácil de usar.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr&gt;
 &lt;h3 id=&#34;hardware--requisitos-mínimos&#34;&gt;Hardware | Requisitos Mínimos&lt;/h3&gt;
 &lt;p&gt;Para operações básicas do Servidor de Arquivos - 1 ou 2 usuários:&lt;/p&gt;
 &lt;ul&gt;
@@ -61,6 +60,7 @@ Apresento o OpenMediaVault (OMV para os íntimos)
 &lt;em&gt;É necessário 2 discos, um exclusivo para o Sistema Operacional e outro para o Dados.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.openmediavault.org/wp-content/uploads/2021/11/omv6_dashboard.png&#34; alt=&#34;OMV End&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;Pessoal, vou ficando por aqui, nos próximos posts (sobre o OMV) trarei um guia de instalação mas, para quem já queira testar, aqui está o &lt;a href=&#34;%5Bhttps://www.openmediavault.org/%5D(https://www.openmediavault.org/)&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Valeu, até a próxima.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
