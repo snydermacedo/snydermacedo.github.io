@@ -15,13 +15,12 @@
       <guid>https://snydermacedo.github.io/posts/omv/</guid>
       <description>OpenMediaVault | Overview Olá, pessoal!
 Apresento o OpenMediaVault (OMV para os íntimos)
- Este sistema operacional se trata de um NAS, baseado no Linux Debian.
+Este sistema operacional se trata de um NAS, baseado no Linux Debian.
  NAS - Network Attached Storage Um sistema NAS é um dispositivo de armazenamento conectado a uma rede que possibilita o armazenamento e a recuperação de dados de um local centralizado para usuários autorizados da rede e clientes heterogêneos.1
  O OMV trata-se de uma solução pronta para uso (out-of-the-box), simples e fácil de usar, graças a sua Interface Web.</description>
       <content>&lt;h1 id=&#34;openmediavault--overview&#34;&gt;OpenMediaVault | Overview&lt;/h1&gt;
 &lt;p&gt;Olá, pessoal!&lt;/p&gt;
 &lt;p&gt;Apresento o OpenMediaVault (OMV para os íntimos)&lt;/p&gt;
-&lt;hr&gt;
 &lt;p&gt;Este sistema operacional se trata de um NAS, baseado no Linux Debian.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;NAS - Network Attached Storage&lt;/strong&gt;
@@ -30,7 +29,7 @@ Apresento o OpenMediaVault (OMV para os íntimos)
 &lt;p&gt;O OMV trata-se de uma solução pronta para uso (out-of-the-box), simples e fácil de usar, graças a sua Interface Web. Primariamente foi projetado para atuar em ambiente doméstico ou pequenos escritórios, mas não se limita só a esses cenários, podendo atuar também em ambiente corporativo.&lt;/p&gt;
 &lt;p&gt;O sistema é construído em um design modular e pode ser facilmente estendido com Plugins disponíveis logo após a instalação do sistema básico.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.openmediavault.org/wp-content/uploads/2021/11/omv6_plugins.png&#34; alt=&#34;OMV Plugins&#34;&gt;&lt;/p&gt;
-&lt;p&gt;###Destaques:&lt;/p&gt;
+&lt;h3 id=&#34;destaques&#34;&gt;Destaques:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Disponível para plataformas x86-64 e ARM (sim pode ser instalando no seu Raspberry).&lt;/li&gt;
 &lt;li&gt;Possui Interface Web bastante rica, para sua administração&lt;/li&gt;
@@ -56,8 +55,8 @@ Apresento o OpenMediaVault (OMV para os íntimos)
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Observação&lt;/strong&gt;
-&lt;em&gt;É necessário 2 discos, um exclusivo para o Sistema Operacional e outro para o Dados.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Observação&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;É necessário 2 discos, um exclusivo para o Sistema Operacional e outro para o Dados.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.openmediavault.org/wp-content/uploads/2021/11/omv6_dashboard.png&#34; alt=&#34;OMV End&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
