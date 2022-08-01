@@ -16,14 +16,15 @@
       <description>OpenMediaVault | Overview Olá, pessoal!
 Apresento o OpenMediaVault (OMV para os íntimos)
 Este sistema operacional se trata de um NAS, baseado no Linux Debian.
- NAS - Network Attached Storage Um sistema NAS é um dispositivo de armazenamento conectado a uma rede que possibilita o armazenamento e a recuperação de dados de um local centralizado para usuários autorizados da rede e clientes heterogêneos.1
- O OMV trata-se de uma solução pronta para uso (out-of-the-box), simples e fácil de usar, graças a sua Interface Web.</description>
+NAS - Network Attached Storage
+Um sistema NAS é um dispositivo de armazenamento conectado a uma rede que possibilita o armazenamento e a recuperação de dados de um local centralizado para usuários autorizados da rede e clientes heterogêneos.1
+O OMV trata-se de uma solução pronta para uso (out-of-the-box), simples e fácil de usar, graças a sua Interface Web.</description>
       <content>&lt;h1 id=&#34;openmediavault--overview&#34;&gt;OpenMediaVault | Overview&lt;/h1&gt;
 &lt;p&gt;Olá, pessoal!&lt;/p&gt;
 &lt;p&gt;Apresento o OpenMediaVault (OMV para os íntimos)&lt;/p&gt;
 &lt;p&gt;Este sistema operacional se trata de um NAS, baseado no Linux Debian.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;NAS - Network Attached Storage&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;NAS - Network Attached Storage&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Um sistema NAS é um dispositivo de armazenamento conectado a uma rede que possibilita o armazenamento e a recuperação de dados de um local centralizado para usuários autorizados da rede e clientes heterogêneos.&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;O OMV trata-se de uma solução pronta para uso (out-of-the-box), simples e fácil de usar, graças a sua Interface Web. Primariamente foi projetado para atuar em ambiente doméstico ou pequenos escritórios, mas não se limita só a esses cenários, podendo atuar também em ambiente corporativo.&lt;/p&gt;
@@ -62,14 +63,14 @@ Este sistema operacional se trata de um NAS, baseado no Linux Debian.
 &lt;hr&gt;
 &lt;p&gt;Pessoal, vou ficando por aqui, nos próximos posts (sobre o OMV) trarei um guia de instalação mas, para quem já queira testar, aqui está o &lt;a href=&#34;%5Bhttps://www.openmediavault.org/%5D(https://www.openmediavault.org/)&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Valeu, até a próxima.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.seagate.com/br/pt/tech-insights/what-is-nas-master-ti/&#34;&gt;NAS&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </content>
     </item>
     
@@ -79,7 +80,7 @@ Este sistema operacional se trata de um NAS, baseado no Linux Debian.
       <pubDate>Thu, 18 Nov 2021 23:32:25 -0400</pubDate>
       
       <guid>https://snydermacedo.github.io/uname/</guid>
-      <description>Entusiasta DevOps, que curtir um bom metroidvania. 📚 Linguagens para estudo: Pyhton, GO e Rust ☢️ Ferramentas: Linux, Ansible, Vim, Bacula 🐧 Linux que estou usando:  📬 Para trocamos uma ideia: ⤵️   </description>
+      <description> Entusiasta DevOps, que curtir um bom metroidvania. 📚 Linguagens para estudo: Pyhton, GO e Rust ☢️ Ferramentas: Linux, Ansible, Vim, Bacula 🐧 Linux que estou usando: 📬 Para trocamos uma ideia: ⤵️ </description>
       <content>&lt;img src=&#34;https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png&#34; min-width=&#34;400px&#34; max-width=&#34;400px&#34; width=&#34;400px&#34; align=&#34;right&#34; alt=&#34;Computador iuriCode&#34;&gt;
 &lt;p align=&#34;left&#34;&gt; 
   Entusiasta DevOps, que curtir um bom metroidvania.
@@ -113,7 +114,7 @@ Este sistema operacional se trata de um NAS, baseado no Linux Debian.
       <guid>https://snydermacedo.github.io/posts/proxmox-7.1/</guid>
       <description>Olá pessoal!!! Nessa última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares Open Source na área da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade, é que esta nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel Linux 5.13 mais recente.
 Abaixo a lista de algumas novidades:
- Definir a retenção de backup por trabalho de backup via GUI: isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
+Definir a retenção de backup por trabalho de backup via GUI: isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
       <content>&lt;p&gt;Olá pessoal!!!
 Nessa última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares &lt;strong&gt;Open Source&lt;/strong&gt; na área da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade, é que esta nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel &lt;strong&gt;Linux&lt;/strong&gt; 5.13 mais recente.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abaixo a lista de algumas novidades:&lt;/strong&gt;&lt;/p&gt;
@@ -144,7 +145,7 @@ Nessa última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, traze
       
       <guid>https://snydermacedo.github.io/posts/ideias-para-o-blog/</guid>
       <description>Ideias Para o Blog Pessoal este blog tem como foco Tecnologias Open Source, mas também pretendendo trazer os seguintes conteudos:
- ⛩️ Animes 🎮 Games 🖥️ Hardware 🎬 Cinema 🎧 Musica 🎙️ PodCast   Pode aparecer algum outro tópico, eu acrescento. 😅</description>
+⛩️ Animes 🎮 Games 🖥️ Hardware 🎬 Cinema 🎧 Musica 🎙️ PodCast Pode aparecer algum outro tópico, eu acrescento. 😅</description>
       <content>&lt;h1 id=&#34;ideias-para-o-blog&#34;&gt;Ideias Para o Blog&lt;/h1&gt;
 &lt;p&gt;Pessoal este blog tem como foco &lt;strong&gt;Tecnologias Open Source&lt;/strong&gt;, mas também pretendendo trazer os seguintes conteudos:&lt;/p&gt;
 &lt;ul&gt;
@@ -166,7 +167,7 @@ Nessa última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, traze
       <pubDate>Tue, 16 Nov 2021 20:29:18 -0400</pubDate>
       
       <guid>https://snydermacedo.github.io/posts/new-blog/</guid>
-      <description>Olá pessoal, este é o primeiro Post do meu novo Blog, usando o framework Hugo    </description>
+      <description>Olá pessoal, este é o primeiro Post do meu novo Blog, usando o framework Hugo </description>
       <content>&lt;h1 id=&#34;olá-pessoal-este-é-o-primeiro-post-do-meu-novo-blog-usando-o-framework-hugo&#34;&gt;Olá pessoal, este é o primeiro Post do meu novo Blog, usando o framework Hugo&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;

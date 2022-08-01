@@ -15,7 +15,7 @@
       <guid>https://snydermacedo.github.io/posts/proxmox-7.1/</guid>
       <description>Olá pessoal!!! Nessa última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares Open Source na área da Virtualização, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade, é que esta nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel Linux 5.13 mais recente.
 Abaixo a lista de algumas novidades:
- Definir a retenção de backup por trabalho de backup via GUI: isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
+Definir a retenção de backup por trabalho de backup via GUI: isso permite que os usuários configurem políticas de backup inteligentes para cada trabalho de backup, não apenas da API e CLI, mas também da interface da web.</description>
       <content>&lt;p&gt;Olá pessoal!!!
 Nessa última quarta-feira (17/11/2021), foi o lançamento do Proxmox 7.1, trazendo várias atualizações para os principais softwares &lt;strong&gt;Open Source&lt;/strong&gt; na área da &lt;strong&gt;Virtualização&lt;/strong&gt;, sendo eles: QEMU 6.1, LXC 4.0, Ceph Pacific 16.2.6 e ZFS 2.1. Outra novidade, é que esta nova versão é baseada no Debian Bullseye 11.1, combinada com o kernel &lt;strong&gt;Linux&lt;/strong&gt; 5.13 mais recente.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abaixo a lista de algumas novidades:&lt;/strong&gt;&lt;/p&gt;
