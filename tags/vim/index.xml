@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on Terminal</title>
+    <link>https://snydermacedo.github.io/tags/vim/</link>
+    <description>Recent content in vim on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 00:58:04 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vim - Comentar &amp; DEScomentar</title>
+      <link>https://snydermacedo.github.io/posts/vim-comentario/</link>
+      <pubDate>Mon, 24 Oct 2022 00:58:04 -0400</pubDate>
+      
+      <guid>https://snydermacedo.github.io/posts/vim-comentario/</guid>
+      <description>Comentar e DEScomentar | VIM Olá, pessoal!
+Deixando a piada “como sair do vim” um pouco de lado&amp;hellip; 1
+Nesses últimos dias estou revisando alguns arquivos de configuração no servidor e me deparei com a seguinte situação: “Comentar várias linhas no VIM”.
+Vamos ao passo a passo:
+Precisamos acessar o modo VISUAL/BLOCO.
+Para isso usamos o comando CTRL + V no VIM ou CTRL + Q para as derivações (gVim ou NeoVim).</description>
+      <content>&lt;h1 id=&#34;comentar-e-descomentar--vim&#34;&gt;Comentar e DEScomentar | VIM&lt;/h1&gt;
+&lt;p&gt;Olá, pessoal!&lt;/p&gt;
+&lt;p&gt;Deixando a piada &lt;em&gt;“como sair do vim”&lt;/em&gt; um pouco de lado&amp;hellip; &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Nesses últimos dias estou revisando alguns arquivos de configuração no servidor e me deparei com a seguinte situação: &lt;strong&gt;“Comentar várias linhas no VIM”&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Vamos ao passo a passo:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Precisamos acessar o modo VISUAL/BLOCO.&lt;br&gt;
+Para isso usamos o comando &lt;strong&gt;CTRL + V&lt;/strong&gt; no VIM ou &lt;strong&gt;CTRL + Q&lt;/strong&gt; para as derivações (gVim ou NeoVim). No meu caso, estou usando o NeoVim.&lt;/li&gt;
+&lt;li&gt;Agora mova o cursor até o ponto que você deseja comentar e pressione &lt;strong&gt;SHIFT + I&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Neste ponto é um pouco confuso mesmo, porém, vai funcionar.&lt;br&gt;
+Pressione &lt;strong&gt;# + ESPAÇO&lt;/strong&gt; e para finalizar pressione &lt;strong&gt;ESC&lt;/strong&gt;.&lt;br&gt;
+A mágica está feita. Abaixo deixarei um vídeo mostrando o processo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;script id=&#34;asciicast-529636&#34; src=&#34;https://asciinema.org/a/529636.js&#34; async&gt;&lt;/script&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Agora vamos DEScomentar!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Novamente vamos acessar o modo VISUAL/BLOCO - &lt;strong&gt;CTRL + V&lt;/strong&gt; ou &lt;strong&gt;CTRL + Q&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Selecione o local que vamos remover o comentário.&lt;/li&gt;
+&lt;li&gt;Para finalizar pressione &lt;strong&gt;X&lt;/strong&gt; - Vídeo abaixo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;script id=&#34;asciicast-529647&#34; src=&#34;https://asciinema.org/a/529647.js&#34; async&gt;&lt;/script&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pessoal, vou ficando por aqui, valeu!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gist.github.com/ultim8k/d8326a0cd7646356acf0dc3baf8e78ff&#34;&gt;Fonte&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://cdn.thenewstack.io/media/2022/08/0ae25624-exit-vim-the-arrival-way-6n632sipjag61-1024x692.jpg&#34;&gt;exit to vim&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
