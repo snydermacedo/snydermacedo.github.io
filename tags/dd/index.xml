@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dd on Terminal</title>
+    <link>https://snydermacedo.github.io/tags/dd/</link>
+    <description>Recent content in dd on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2023 20:58:57 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/dd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wipe Disk | dd</title>
+      <link>https://snydermacedo.github.io/posts/wipe_dd/</link>
+      <pubDate>Mon, 13 Feb 2023 20:58:57 -0400</pubDate>
+      
+      <guid>https://snydermacedo.github.io/posts/wipe_dd/</guid>
+      <description>Wipe Disk com dd Olá, pessoal!
+Neste post vou mostra a vocês como fazer:
+Wipe Disk | Limpeza de Disco Diferente de uma formatação, o Wipe sobrescreve os bits do seu dispositivo com zer0s, dificultando e muito a recuperação dos dados. Esse procedimento é recomendado quando vamos fazer uma doação ou venda.
+Bem, para executar o wipe vou usar a ferramenta ‘dd&amp;rsquo;, o comando vai ficar assim:
+# dd if=/dev/zero of=/dev/sdX bs=4096 status=progress Vamos a explicação:</description>
+      <content>&lt;h1 id=&#34;wipe-disk-com-dd&#34;&gt;Wipe Disk com dd&lt;/h1&gt;
+&lt;p&gt;Olá, pessoal!&lt;/p&gt;
+&lt;p&gt;Neste post vou mostra a vocês como fazer:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Wipe Disk | Limpeza de Disco
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Diferente de uma formatação, o Wipe sobrescreve os bits do seu dispositivo com zer0s, dificultando e muito a recuperação dos dados.
+Esse procedimento é recomendado quando vamos fazer uma doação ou venda.&lt;/p&gt;
+&lt;p&gt;Bem, para executar o wipe vou usar a ferramenta ‘dd&amp;rsquo;, o comando vai ficar assim:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-sh:&#34; data-lang=&#34;sh:&#34;&gt;# dd if=/dev/zero of=/dev/sdX bs=4096 status=progress
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Vamos a explicação:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;if     – origem | vamos usar o arquivo especial /dev/zero&lt;/li&gt;
+&lt;li&gt;of     – destino | informamos o disco que queremos limpar (se atente ao X)&lt;/li&gt;
+&lt;li&gt;bs     -  a quantidade de bytes lido ou escrito por vez&lt;/li&gt;
+&lt;li&gt;status – mostra estatísticas periódicas de transferência.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Como exemplo, vou executar o comando em um pendrive.&lt;br&gt;
+Para descobrir o caminho do pendrive vou usar o comando:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-sh:&#34; data-lang=&#34;sh:&#34;&gt;sudo fdisk -l
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Retornando a informação:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Disco /dev/sdb: 3,61 GiB, 3880452096 bytes, 7579008 setores
+Modelo de disco: USB DISK 2.0    
+Unidades: setor de 1 * 512 = 512 bytes
+Tamanho de setor (lógico/físico): 512 bytes / 512 bytes
+Tamanho E/S (mínimo/ótimo): 512 bytes / 512 bytes
+Tipo de rótulo do disco: gpt
+Identificador do disco: 7D7473EA-FCE2-4E11-B09B-A49D0A25CE4C
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Na primeira linha já informa o caminho &amp;ldquo;/dev/sdb&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Pronto, vamos fazer &amp;ldquo;Wipe&amp;rdquo; neste pendrive, o nosso comando vai ficar assim:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-sh:&#34; data-lang=&#34;sh:&#34;&gt;% sudo dd if=/dev/zero of=/dev/sdb bs=4096 status=progress
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ao término, o processo vai ficar assim:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://snydermacedo.github.io/img/wipe-red-drive.png&#34; alt=&#34;Wipe Red Drive&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Caso queria assistir todo o procedimento, só ficou um pouco extenso:&lt;/p&gt;
+&lt;script async id=&#34;asciicast-560449&#34; src=&#34;https://asciinema.org/a/560449.js&#34;&gt;&lt;/script&gt;
+&lt;hr&gt;
+&lt;p&gt;Pessoal, vou ficando por aqui, valeu!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
