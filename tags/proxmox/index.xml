@@ -6,7 +6,40 @@
     <description>Recent content in proxmox on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 19:17:21 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Mar 2023 15:34:27 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lançado o  Proxmox 7.4</title>
+      <link>https://snydermacedo.github.io/posts/proxmox-7.4/</link>
+      <pubDate>Sun, 26 Mar 2023 15:34:27 -0400</pubDate>
+      
+      <guid>https://snydermacedo.github.io/posts/proxmox-7.4/</guid>
+      <description>Proxmox 7.1 - Dark Mode Olá, pessoal!!!
+Nessa última quarta-feira (23/03/2023), foi o lançamento do Proxmox 7.4, destacando:
+Base Debian 11.6 (“Bullseye”), com o kernel Linux 5.15 LTS Instalação opcional do kernel Linux 6.2 | Suporte para os hardwares mais recente O tão aguardado: &amp;ldquo;Proxmox Dark&amp;rdquo; 💾 Link para Download 💾
+Para confera a materia completa, clique aqui.
+Vou deixar também o video mostrando todas as novidades:
+Pessoal, vou ficando por aqui, valeu!</description>
+      <content>&lt;h1 id=&#34;proxmox-71---dark-mode&#34;&gt;Proxmox 7.1 - Dark Mode&lt;/h1&gt;
+&lt;p&gt;Olá, pessoal!!!&lt;/p&gt;
+&lt;p&gt;Nessa última quarta-feira (23/03/2023), foi o lançamento do Proxmox 7.4, destacando:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Base Debian 11.6 (“Bullseye”), com o kernel Linux 5.15 LTS&lt;/li&gt;
+&lt;li&gt;Instalação opcional do kernel Linux 6.2 | Suporte para os hardwares mais recente&lt;/li&gt;
+&lt;li&gt;O tão aguardado: &amp;ldquo;Proxmox Dark&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://proxmox.com/images/proxmox/screenshots/Proxmox-VE-7-4-OSD-Details.png&#34; alt=&#34;Dark Mode&#34;&gt;&lt;/p&gt;
+&lt;p&gt;💾 &lt;a href=&#34;https://proxmox.com/en/downloads/item/proxmox-ve-7-4-iso-installer&#34;&gt;&lt;strong&gt;Link para Download&lt;/strong&gt;&lt;/a&gt; 💾&lt;/p&gt;
+&lt;p&gt;Para confera a materia completa, clique &lt;a href=&#34;https://proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-4&#34;&gt;&lt;strong&gt;aqui&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vou deixar também o video mostrando todas as novidades:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/CnJX5gaoges&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;pessoal-vou-ficando-por-aqui-valeu&#34;&gt;Pessoal, vou ficando por aqui, valeu!&lt;/h1&gt;
+</content>
+    </item>
+    
     <item>
       <title>Lançado o Proxmox 7.1</title>
       <link>https://snydermacedo.github.io/posts/proxmox-7.1/</link>
