@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Terminal</title>
+    <title>Tags on Snyder Macedo</title>
     <link>https://snydermacedo.github.io/tags/</link>
-    <description>Recent content in Tags on Terminal</description>
+    <description>Recent content in Tags on Snyder Macedo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 19:22:35 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directory</title>
+      <link>https://snydermacedo.github.io/tags/directory/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://snydermacedo.github.io/tags/directory/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://snydermacedo.github.io/tags/linux/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://snydermacedo.github.io/tags/linux/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>games_linux</title>
       <link>https://snydermacedo.github.io/tags/games_linux/</link>

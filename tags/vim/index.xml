@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vim on Terminal</title>
+    <title>vim on Snyder Macedo</title>
     <link>https://snydermacedo.github.io/tags/vim/</link>
-    <description>Recent content in vim on Terminal</description>
+    <description>Recent content in vim on Snyder Macedo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 24 Oct 2022 00:58:04 -0400</lastBuildDate><atom:link href="https://snydermacedo.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim - Comentar &amp; DEScomentar</title>
